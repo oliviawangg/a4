@@ -43,5 +43,6 @@
     "cypress": "^9.6.0",
     "expo-web-browser": "~10.1.0"
   },
-  "private": true
+  "private": true,
+  "version": "0.0.0"
 }
